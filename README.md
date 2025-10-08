@@ -1,6 +1,8 @@
 🔍 Project Overview
 This HR Analytics Dashboard provides insights into workforce management and employee attrition patterns using Power BI. The project demonstrates business intelligence capabilities by creating an interactive dashboard from cleaned HR data, showcasing key metrics and visualizations for human resources decision-making here snapshot of dashboard:-
-![Uploading image.png…]()
+<img width="880" height="493" alt="image" src="https://github.com/user-attachments/assets/7d5c0192-de0d-47fc-9efe-5eb5f8fe2637" />
+
+
 
 
 🛠️ Technical Stack
